@@ -1,2 +1,2 @@
 # crs-gpython
-# Coursera Google IT Automation with Python
+Coursera Google IT Automation with Python
